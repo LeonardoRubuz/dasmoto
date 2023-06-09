@@ -1,0 +1,67 @@
+/* Bannière Principale */
+body header h1{
+    text-align:center ;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url("/images/image1.webp");
+}
+
+/* Contenu de la balise main */
+section div{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+}
+
+.brushes-section .section-header{
+    background-color:mediumspringgreen ;
+}
+
+.frames-section .section-header{
+    background-color:lightcoral ;
+}
+
+.paints-section .section-header{
+    background-color:skyblue ;
+}
+
+.caption-header p {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+figcaption p a{
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+/* Brushes.html */
+
+form{
+    border-style:  solid ;
+    margin: 5px 20px;
+    padding: 5px 20px;
+    border-radius: 0.5cm;
+    
+}
+
+.form-header{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-bottom: 10px;
+    border-bottom: 1px solid;
+}
+
+.form-body select, input{
+    margin: 10px 20px;
+}
+
+input[type='submit']{
+    margin-left: 5px;
+}
