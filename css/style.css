@@ -34,34 +34,8 @@ section div{
     font-weight: bold;
     font-size: 20px;
 }
-figcaption p a{
+figcaption p span{
     text-decoration: none;
     color: blue;
     font-weight: bold;
-}
-
-/* Brushes.html */
-
-form{
-    border-style:  solid ;
-    margin: 5px 20px;
-    padding: 5px 20px;
-    border-radius: 0.5cm;
-    
-}
-
-.form-header{
-    text-align: center;
-    text-transform: uppercase;
-    font-weight: bold;
-    padding-bottom: 10px;
-    border-bottom: 1px solid;
-}
-
-.form-body select, input{
-    margin: 10px 20px;
-}
-
-input[type='submit']{
-    margin-left: 5px;
 }
